@@ -83,6 +83,9 @@ umi-plugin-locale 暴露了名为 setLocale 和 getLocale 的 api，通过这两
   
   
   项目使用：
-   1、 git clone 
+  
+   1、 git clone https://github.com/lghxuelang/localeLange.git
+   
    2、 cnpm nistall 
+   
    3、 npm start 
